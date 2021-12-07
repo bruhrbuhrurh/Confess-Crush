@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'YÊU KHÔNG <333.',
     btnAccept: 'Okiiiii iu lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://github.com/zukahai/Confess-hihi' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
